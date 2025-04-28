@@ -1,4 +1,6 @@
 # Markdown tutorial
+**Video de Mouredev:**
+[¿Por qué debes aprender MARKDOWN?](https://www.youtube.com/watch?v=77Ggk1uzO2A)
 ## Titulos
 # Content 1
 ## Content 2
